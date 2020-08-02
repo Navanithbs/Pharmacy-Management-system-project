@@ -1,0 +1,5 @@
+Tablet name :Disprin
+Dosage :150mg
+Manufacturing Date :12/06/2020
+Expiry :12/01/2021
+Price :25

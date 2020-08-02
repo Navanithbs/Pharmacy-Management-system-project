@@ -1,0 +1,6 @@
+Tablet name :Paracetemol
+Dosage :250mg
+Manufacturing Date :21/02/2020
+Expiry :12/12/2020
+Price :30
+

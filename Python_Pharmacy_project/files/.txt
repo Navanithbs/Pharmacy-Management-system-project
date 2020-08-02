@@ -1,0 +1,5 @@
+Tablet name :
+Dosage :
+Manufacturing Date :
+Expiry :
+Price :

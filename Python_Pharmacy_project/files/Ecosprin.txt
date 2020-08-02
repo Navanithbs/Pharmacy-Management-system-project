@@ -1,0 +1,5 @@
+Tablet name :Ecosprin
+Dosage :75mg
+Manufacturing Date :12/03/2020
+Expiry :01/12/2020
+Price :45

@@ -1,0 +1,5 @@
+Tablet name :Dolo
+Dosage :250mg
+Manufacturing Date :21/04/2020
+Expiry :12/02/2020
+Price :25
